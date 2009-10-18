@@ -1,0 +1,6 @@
+[submodule "plugins/yasnippet"]
+	path = plugins/yasnippet
+	url = git://github.com/dirceu/yasnippet.git
+[submodule "plugins/rails-reloaded"]
+	path = plugins/rails-reloaded
+	url = git://github.com/dima-exe/emacs-rails-reloaded.git
