@@ -4,3 +4,12 @@
 [submodule "plugins/rails-reloaded"]
 	path = plugins/rails-reloaded
 	url = git://github.com/dima-exe/emacs-rails-reloaded.git
+[submodule "plugins/yasnippets-rspec"]
+	path = plugins/yasnippets-rspec
+	url = git://github.com/gary/yasnippets-rspec.git
+[submodule "plugins/yasnippets-shoulda"]
+	path = plugins/yasnippets-shoulda
+	url = git://github.com/rwc9u/yasnippets-shoulda.git
+[submodule "plugins/rspec-mode"]
+	path = plugins/rspec-mode
+	url = git://github.com/pezra/rspec-mode.git
